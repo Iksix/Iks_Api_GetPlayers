@@ -17,7 +17,7 @@ public class Iks_Api_GetPlayers : BasePlugin
     [ConsoleCommand("xapi_getplayers")]
     public void OnGetPlayersCommand(CCSPlayerController? controller, CommandInfo info)
     {
-        string result = @"{";
+        info.ReplyToCommand( "{");
 
         var players = XHelper.GetOnlinePlayers();
 
@@ -52,15 +52,11 @@ public class Iks_Api_GetPlayers : BasePlugin
             if (i != players.Count - 1)
             {
                 item += "}, \n";
-                result += item;
-                continue;
+                info.ReplyToCommand(item);
             }
             item += "} \n";
-            result += item;
+            info.ReplyToCommand(item);
         }
-
-        result += "}";
-
-        info.ReplyToCommand(result);
+        info.ReplyToCommand( "}");
     }
 }
