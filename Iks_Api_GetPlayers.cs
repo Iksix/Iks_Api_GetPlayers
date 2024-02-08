@@ -47,12 +47,14 @@ public class Iks_Api_GetPlayers : BasePlugin
             item += "\"kills\": " + "\"" + XHelper.EscapeString(Kills) + "\", \n";
             item += "\"steamid2\": " + "\"" + XHelper.EscapeString(steamid2) + "\", \n";
             item += "\"steamid3\": " + "\"" + XHelper.EscapeString(steamid3) + "\", \n";
-            item += "\"steamid32\": " + "\"" + XHelper.EscapeString(steamid32) + "\" \n";
+            item += "\"steamid32\": " + "\"" + XHelper.EscapeString(steamid32) + "\", \n";
+            item += "\"steamid64\": " + "\"" + XHelper.EscapeString(steamid64) + "\" \n";
 
             if (i != players.Count - 1)
             {
                 item += "}, \n";
                 info.ReplyToCommand(item);
+                return;
             }
             item += "} \n";
             info.ReplyToCommand(item);
