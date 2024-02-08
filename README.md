@@ -1,4 +1,4 @@
-## Api for getting players and info about they
+## Api for getting players and information about them
 This plugin is needed for developers
 ## Commands:
 - `xapi_getplayers` `SERVER.ONLY`
