@@ -1,0 +1,12 @@
+D:\__plgns\Iks_Api_GetPlayers\bin\Debug\net7.0\Iks_Api_GetPlayers.deps.json
+D:\__plgns\Iks_Api_GetPlayers\bin\Debug\net7.0\Iks_Api_GetPlayers.dll
+D:\__plgns\Iks_Api_GetPlayers\bin\Debug\net7.0\Iks_Api_GetPlayers.pdb
+D:\__plgns\Iks_Api_GetPlayers\obj\Debug\net7.0\Iks_Api_GetPlayers.csproj.AssemblyReference.cache
+D:\__plgns\Iks_Api_GetPlayers\obj\Debug\net7.0\Iks_Api_GetPlayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\__plgns\Iks_Api_GetPlayers\obj\Debug\net7.0\Iks_Api_GetPlayers.AssemblyInfoInputs.cache
+D:\__plgns\Iks_Api_GetPlayers\obj\Debug\net7.0\Iks_Api_GetPlayers.AssemblyInfo.cs
+D:\__plgns\Iks_Api_GetPlayers\obj\Debug\net7.0\Iks_Api_GetPlayers.csproj.CoreCompileInputs.cache
+D:\__plgns\Iks_Api_GetPlayers\obj\Debug\net7.0\Iks_Api_GetPlayers.dll
+D:\__plgns\Iks_Api_GetPlayers\obj\Debug\net7.0\refint\Iks_Api_GetPlayers.dll
+D:\__plgns\Iks_Api_GetPlayers\obj\Debug\net7.0\Iks_Api_GetPlayers.pdb
+D:\__plgns\Iks_Api_GetPlayers\obj\Debug\net7.0\ref\Iks_Api_GetPlayers.dll
